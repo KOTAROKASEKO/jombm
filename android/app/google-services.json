@@ -1,0 +1,123 @@
+{
+  "project_info": {
+    "project_number": "1049878222012",
+    "firebase_url": "https://whatsappclone-5ad8f-default-rtdb.firebaseio.com",
+    "project_id": "whatsappclone-5ad8f",
+    "storage_bucket": "whatsappclone-5ad8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049878222012:android:2c36b9f70f55131facecb9",
+        "android_client_info": {
+          "package_name": "com.bahasamelayu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049878222012-tromh38165m6n4vcg9atv5u7abqh4euq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGLGC1eWoS5i-qHDjw18IWLTnopfbXRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049878222012-tromh38165m6n4vcg9atv5u7abqh4euq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049878222012-ihpmlqke0sree3jc50t03949sruekraj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reConver"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049878222012:android:7a6a3a4610f4602eacecb9",
+        "android_client_info": {
+          "package_name": "com.property.match"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049878222012-epesa4hv2efikr3rkf2eb51n2vd5jtt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.property.match",
+            "certificate_hash": "0fd882484e5bce8f32ab2f44175b7eccc60c0c5a"
+          }
+        },
+        {
+          "client_id": "1049878222012-fdf4rmmt4l8o83rqnghcga70e572cvf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.property.match",
+            "certificate_hash": "3a44d5d4f0f5cfbf9c892a3edcaa50b76440eaca"
+          }
+        },
+        {
+          "client_id": "1049878222012-hthpollmg0a9sd7j5n8qld4q04jfraio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.property.match",
+            "certificate_hash": "074e1be374ff45d08d6c2d44813f9246ba24b16b"
+          }
+        },
+        {
+          "client_id": "1049878222012-iob5pspvt8va3nfodcgm959pmploljlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.property.match",
+            "certificate_hash": "ebe4ed417909899b8631bd65693e6b7e7fd41b60"
+          }
+        },
+        {
+          "client_id": "1049878222012-l2epb6e5tpkoruek6m8fgqj04170vuu9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.property.match",
+            "certificate_hash": "bb3da8696270a23979b639b463932a4a2b642c19"
+          }
+        },
+        {
+          "client_id": "1049878222012-tromh38165m6n4vcg9atv5u7abqh4euq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGLGC1eWoS5i-qHDjw18IWLTnopfbXRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049878222012-tromh38165m6n4vcg9atv5u7abqh4euq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049878222012-ihpmlqke0sree3jc50t03949sruekraj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.reConver"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

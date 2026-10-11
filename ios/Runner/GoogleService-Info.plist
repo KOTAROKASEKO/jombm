@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1049878222012-g0fofqtni02mvgavsskjf7ra0hl08pcf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1049878222012-g0fofqtni02mvgavsskjf7ra0hl08pcf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1049878222012-epesa4hv2efikr3rkf2eb51n2vd5jtt2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABNm9h2sbwA4e86yuvcEmuzHI5Ny65GWU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1049878222012</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.jombm</string>
+	<key>PROJECT_ID</key>
+	<string>whatsappclone-5ad8f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatsappclone-5ad8f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1049878222012:ios:2349b805fb4d7753acecb9</string>
+	<key>DATABASE_URL</key>
+	<string>https://whatsappclone-5ad8f-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
